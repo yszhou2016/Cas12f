@@ -1,5 +1,7 @@
 This project is about analysis Cas12f proteins.
+
 a. Identify the Cas proteins.
+
 a.1. Install the “prodigal.linux” , "bedtools" and “pilercr” in the default environment. 
 prodigal.linux:https://github.com/yszhou2016/Cas13/tree/master/0.Cas-Finder
 bedtools: https://sourceforge.net/projects/bedtools/ 
