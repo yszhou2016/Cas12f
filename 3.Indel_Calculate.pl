@@ -1,4 +1,4 @@
-#Example: perl 3.Indel_Caculate.pl  Sample.R1.fastq.gz   spacer_sequence   reference_sequence
+#Example: perl 3.Indel_Calculate.pl  Sample.R1.fastq.gz   spacer_sequence   reference_sequence
 
 $filein=$ARGV[0];  
 $fileout="$filein.output.txt";
