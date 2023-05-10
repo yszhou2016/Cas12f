@@ -1,5 +1,5 @@
 #Cas12f and CRISPR annotation
-perl 0.Cas-Finder Sample-contigs.fasta
+perl 0.Cas-Finder.pl Sample-contigs.fasta
 perl 1.Cas12f-Finder.pl  Sample-contigs.pep.cas.fasta
 
 #TracrRNA predioction
